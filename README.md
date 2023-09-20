@@ -36,7 +36,7 @@
 
 ```yml
 title: OscarTech
-subtitle: Celebrating Innovation: Advancing Technology for a Brighter Tomorrow
+subtitle: Advancing Technology for a Brighter Tomorrow
 description: OscarTech is an English-language website dedicated to providing insightful and informative articles on a wide range of tech-related topics. Our goal is to keep our readers updated with the latest trends, innovations, and developments in the world of technology.
 keywords:
 # 作者名称，会显示在侧边栏
@@ -47,7 +47,7 @@ author:
 
 ```yml
 card_author:
-  description: Celebrating Innovation: Advancing Technology for a Brighter Tomorrow
+  description: Advancing Technology for a Brighter Tomorrow
 ```
 
 公告也可以在 `_config.butterfly.yml` 文件中修改：

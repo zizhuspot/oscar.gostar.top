@@ -232,7 +232,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: Celebrating Innovation: Advancing Technology for a Brighter Tomorrow
+    description: Advancing Technology for a Brighter Tomorrow
     button:
       enable: true
       icon: fab fa-github
