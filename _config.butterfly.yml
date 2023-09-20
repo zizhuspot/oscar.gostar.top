@@ -498,8 +498,8 @@ twikoo:
 # https://giscus.app/
 giscus:
   repo: zizhuspot/oscar.gostar.top
-  repo_id:
-  category_id:
+  repo_id: R_kgDOKWNuVw
+  category_id: DIC_kwDOKWNuV84CZgBf
   theme:
     light: light
     dark: dark
