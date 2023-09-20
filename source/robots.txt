@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oscar.gostar.top/sitemap.xml
