@@ -1,12 +1,12 @@
 ---
-title: Internet Briefing and Summary (2023 Alibaba Global Math Competition: Piano, Surfing, Stand-up Comedy - This batch of young geniuses is quite versatile.)
+title: Internet Briefing and Summary (2023 Alibaba Global Math Competition Piano, Surfing, Stand-up Comedy - This batch of young geniuses is quite versatile.)
 date: 2023-09-24 20:26:26
 categories:
   - Internet
 tags:
   - Internet Summary 
   - Internet Briefing
-description: 2023 Alibaba Global Math Competition: Piano, Surfing, Stand-up Comedy - This batch of young geniuses is quite versatile. 
+description: 2023 Alibaba Global Math Competition  Piano, Surfing, Stand-up Comedy - This batch of young geniuses is quite versatile. 
 cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/oscarblog2.jpg
 ---
 
