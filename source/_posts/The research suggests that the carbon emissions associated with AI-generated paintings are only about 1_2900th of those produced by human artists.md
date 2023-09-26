@@ -1,5 +1,5 @@
 ---
-title: The research suggests that the carbon emissions associated with AI-generated paintings are only about 1/2900th of those produced by human artists
+title: The research suggests that the carbon emissions associated with AI-generated paintings are only about 1_2900th of those produced by human artists
 date: 2023-09-15 09:26:26
 categories:
   - Internet
