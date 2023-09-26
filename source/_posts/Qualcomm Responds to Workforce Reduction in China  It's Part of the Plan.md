@@ -13,8 +13,6 @@ cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/650ce2f55b9f2.jpeg
 ---
 
 
-Here are the English translations of the provided headlines:
-
 1. **"Qualcomm's Large-Scale Layoffs in Shanghai? Latest Response from Qualcomm"**
    On September 21, there were reports of layoffs at Qualcomm's China division, primarily in its wireless business research and development department. The compensation terms reportedly include N+4 for regular employees (including newly hired staff) and N+7 for senior employees without a fixed tenure, without a cap of three times. In response, Qualcomm officials stated, "In our third-quarter earnings call and our 10-Q report submitted in August, we mentioned that, given the continued uncertainty in the macroeconomic and demand environment, we expect to take further adjustment measures to continue investing in significant growth opportunities and business diversification. While the corresponding plan is still in development, we expect that the main measures will include layoffs."
 
