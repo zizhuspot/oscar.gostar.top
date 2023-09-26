@@ -58,3 +58,21 @@ In summary, Falcon 180B's release represents a significant development in the fi
 
 
 
+Open source vs. Closed source
+
+There's a saying that goes, "One person can go faster, but a group of people can go farther." This saying aptly describes the existence of both closed-source and open-source approaches in the industry.
+
+The industry benefits from closed-source large models that involve substantial investments in researching proprietary technologies and exploring practical applications. It also benefits from idealistic and open-source large models.
+
+As Mr. Zhou Ming from LanZhou Technology once said to Leiphone, "Being alive is more important than anything else." He believes that entrepreneurship requires ambition and resilience, and entrepreneurs need to assess the situation. In practical terms, this means understanding what you want to achieve and focusing on your strengths and priorities.
+
+Starting a business in the field of large models is undoubtedly a challenging and long-term endeavor. For many entrepreneurs, funding is a critical factor that determines whether the company can continue to operate. As high-quality open-source large models like Llama 2 and Falcon 180B gradually become available, many companies that initially aimed to develop proprietary large models are reevaluating their position. Embracing open source might be an alternative path forward.
+
+Therefore, we can observe that, to win this long-term battle, LanZhou Technology's current strategy is to embrace open source. They treat open-source models as the L0 foundation and build on top of it with L1 language models, L2 industry-specific models, and L3 scenario-specific models.
+
+In this wave of entrepreneurship, more and more large model entrepreneurs are eager to embrace open source. Some describe this wave of open source as akin to connecting a free water supply from a utility company to your home. However, if the utility company is unwilling to open the valve, the benefits will be limited, and progress in the industry will be slower.
+
+Therefore, the open-source community is in need of contributions from the large model community in China.
+
+
+
