@@ -12,7 +12,7 @@ description: DALL·E 3 Begins Beta Testing on Bing! Conquers the Challenge of Dr
 cover: https://cdn.jsdelivr.net/gh/1oscar/image_house@main/2023-09-27_003100.png
 ---
 
-
+![](https://cdn.jsdelivr.net/gh/1oscar/image_house@main/2023101614000101.png)
 
 "DALL·E 3" Begins Beta Testing on Bing! Conquers the Challenge of Drawing a Horse Riding an Astronaut, Generating Images with 50 Specified Objects in a Single Drawing
 
@@ -42,4 +42,11 @@ There have been other intriguing challenges as well, such as drawing "eight gira
 Users have also been exploring the level of control they have over the generated images. ChatGPT has indicated that users can provide detailed descriptions, specify the style or medium (e.g., oil painting, photo, illustration, cartoon, watercolor, 3D rendering), request specific resolutions, and even ask for a certain number of images. If the initial result is unsatisfactory, users can provide feedback and request modifications.
 
 It's clear that DALL·E 3's progress is a result of both OpenAI's efforts and its collaboration with Microsoft. While many details remain undisclosed, this collaborative effort has resulted in significant advancements, and it's exciting to see the potential applications of this technology in the future.
+
+
+As of my last knowledge update in September 2021, "DALL·E 3" does not appear to be a well-known or widely recognized term in the field of artificial intelligence or natural language processing. It's possible that there have been new developments or models created after my last update, and I may not have information on them.
+
+However, I can provide information about its predecessor, "DALL·E," which was developed by OpenAI. DALL·E is a model that can generate images from text descriptions, similar to GPT-3 but for images. It's designed to create images from textual prompts, combining natural language understanding and image generation. DALL·E is based on a GAN (Generative Adversarial Network) architecture.
+
+If "DALL·E 3" is a new model or development that has emerged after my last update, I would recommend checking the latest news and research from OpenAI or other reliable sources for up-to-date information on its principles, inventors, and applications.
 

@@ -37,10 +37,6 @@ In the second act, founders are focusing on improving their AI products, develop
 
 In conclusion, the article acknowledges that while generative AI has shown tremendous promise, there are still challenges to address, particularly in proving long-term value to users. The authors express confidence in the future of generative AI and are optimistic about the second act, where they expect founders to continue pushing the boundaries of model performance and product experiences.
 
-You can read the full article on Sequoia Capital's website: 
-
-[Generative AI Enters the Second Act | Sequoia Capital](https://www.sequoiacap.com/article/generative-ai-act-two/).
-
 
 Sequoia Capital is a venture capital firm based in Silicon Valley, California. It is one of the most prominent and successful venture capital firms globally, with a history of investing in and supporting many of the world's leading technology companies.
 
