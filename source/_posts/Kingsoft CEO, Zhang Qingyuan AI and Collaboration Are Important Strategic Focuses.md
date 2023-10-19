@@ -44,3 +44,19 @@ The technology open day was held in Wuhan, reflecting the city's significance as
 
 
 
+Zhang Qingyuan, the CEO of Kingsoft Corporation, has underscored the importance of artificial intelligence (AI) and collaboration as pivotal strategic focuses for the company's growth and development.
+
+### Key Points:
+
+1. **AI as a Strategic Pillar**: Zhang Qingyuan has positioned AI as a foundational element of Kingsoft's strategic vision. The company recognizes the transformative potential of AI in various industries and aims to leverage it for innovation and growth.
+
+2. **Integration of AI Technologies**: Kingsoft is actively integrating AI technologies across its product and service offerings, aiming to enhance user experiences, automate processes, and deliver more intelligent solutions.
+
+3. **Collaborative Initiatives**: Collaboration is a key component of Kingsoft's strategy. The company is forging partnerships with other businesses, research institutions, and technology providers to foster innovation and create synergies in the rapidly evolving tech landscape.
+
+4. **AI's Role in Industry Evolution**: Zhang Qingyuan acknowledges AI's role in shaping the future of industries, including cloud computing, office software, and online gaming, all areas where Kingsoft is actively engaged.
+
+5. **User-Centric Approach**: Kingsoft's commitment to AI and collaboration is guided by a user-centric philosophy, focusing on meeting the evolving needs and expectations of its customers.
+
+Zhang Qingyuan's emphasis on AI and collaboration reflects Kingsoft's strategic orientation toward technological advancement and innovation. These focuses are likely to drive the company's competitive edge and contribute to its growth in an ever-evolving digital landscape.
+
