@@ -46,3 +46,19 @@ SpaceGPT leverages natural language processing and machine learning capabilities
 
 It's important to note that the term "SpaceGPT" may not represent a specific, widely recognized technology or product as of my last knowledge update in September 2021. However, it aligns with the broader trend of integrating AI models like GPT into various applications to create smarter and more context-aware environments for users.
 
+
+Great Wall SpaceGPT has embarked on an extensive exploration of smart technology, marked by the deployment of "Urban NOA" in 100 cities. Spearheading this venture is Yang Jifeng, who leads the company's AI Lab.
+
+Key Highlights:
+
+1. **Expansion into Smart Technology**: Great Wall SpaceGPT is taking significant strides in the realm of smart technology, signifying its commitment to innovation and technological advancement.
+
+2. **Urban NOA Deployment**: The deployment of "Urban NOA" in 100 cities is a remarkable achievement. This initiative likely encompasses a range of smart city solutions, aimed at enhancing urban living, infrastructure, and sustainability.
+
+3. **Leadership by Yang Jifeng**: Yang Jifeng's role as the head of Great Wall SpaceGPT's AI Lab is pivotal. His leadership and expertise are expected to drive the development of cutting-edge AI technologies and applications.
+
+4. **AI in Urban Development**: The deployment of AI-driven technology in urban settings has the potential to revolutionize city management, transportation, and various aspects of daily life.
+
+5. **Pioneering Innovation**: Great Wall SpaceGPT's foray into smart technology and urban AI solutions showcases its pioneering spirit and commitment to shaping the future of technology in urban environments.
+
+This significant development underscores the company's commitment to smart technology and its potential to transform urban living. Yang Jifeng's leadership and the deployment of "Urban NOA" in numerous cities indicate that Great Wall SpaceGPT is at the forefront of innovation in the AI and smart technology landscape.
