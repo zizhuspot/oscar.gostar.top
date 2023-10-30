@@ -912,10 +912,8 @@ css_prefix: true
 inject:
   head:
     - <link rel="stylesheet" href="/custom.css">
-    - <meta name="monetag" content="0736b29cca6f4e2267e6df6011529a00">
   bottom:
     # - <script src="xxxx"></script>
-    - <script>(function(d,z,s){s.src='https://'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('loajawun.com',6471860,document.createElement('script'))</script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
